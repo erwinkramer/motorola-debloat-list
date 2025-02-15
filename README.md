@@ -22,7 +22,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Meta Services                      | com.facebook.services                   |                              |
 | Mobile Device Information Provider | com.amazon.appmanager                   |                              |
 | MotoApps                           | com.aura.oobe.motorola                  |                              |
-| Moto Widget                        | com.motorola.timeweatherwidget          | If using Motorola's Widgets  |
+| Moto Widget                        | com.motorola.timeweatherwidget          | If using Motorola's widgets  |
 | Orange Manual Selector             | com.orange.aura.oobe                    | If mobile provider is Orange |
 | Retail Mode                        | com.motorola.demo                       |                              |
 | Stub                               | de.telekom.tsc                          |                              |

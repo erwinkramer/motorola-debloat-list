@@ -1,4 +1,4 @@
-# Motorola Debloat List
+# Motorola Debloat List 🌱
 
 List of apps you can remove from your Motorola phone via [Canta](https://f-droid.org/packages/org.samo_lego.canta/).
 

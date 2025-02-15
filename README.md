@@ -19,7 +19,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Meta App Installer      | com.facebook.system                     |                                                                                      |
 | Meta App Manager        | com.facebook.appmanager                 |                                                                                      |
 | Meta Services           | com.facebook.services                   |                                                                                      |
-| Moto Widget             | com.motorola.timeweatherwidget          | Only keep if you like the Motorola Widgets                                           |
+| Moto Widget             | com.motorola.timeweatherwidget          | Only keep if you use Motorola Widgets                                                |
 | Orange Manual Selector  | com.orange.aura.oobe                    | Only keep if mobile provider is [Orange](https://en.wikipedia.org/wiki/Orange_Group) |
 | Retail Mode             | com.motorola.demo                       |                                                                                      |
 | Weather                 | com.inmobi.weather                      |                                                                                      |

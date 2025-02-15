@@ -15,14 +15,14 @@ This list is tested on a Motorola Edge 50 Neo.
 | ATT Phone Extension                | com.motorola.att.phone.extensions       | If mobile provider is AT&T   |
 | Facebook                           | com.facebook.katana                     |                              |
 | Family Space                       | com.motorola.spaces                     |                              |
-| Games                              | com.motorola.gamemode                   | If you use Moto Gametime     |
+| Games                              | com.motorola.gamemode                   | If using Moto Gametime       |
 | YouTube Music                      | com.google.android.apps.youtube.music   |                              |
 | Meta App Installer                 | com.facebook.system                     |                              |
 | Meta App Manager                   | com.facebook.appmanager                 |                              |
 | Meta Services                      | com.facebook.services                   |                              |
 | Mobile Device Information Provider | com.amazon.appmanager                   |                              |
 | MotoApps                           | com.aura.oobe.motorola                  |                              |
-| Moto Widget                        | com.motorola.timeweatherwidget          | If you use Motorola Widgets  |
+| Moto Widget                        | com.motorola.timeweatherwidget          | If using Motorola's Widgets  |
 | Orange Manual Selector             | com.orange.aura.oobe                    | If mobile provider is Orange |
 | Retail Mode                        | com.motorola.demo                       |                              |
 | Stub                               | de.telekom.tsc                          |                              |

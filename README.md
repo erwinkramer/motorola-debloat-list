@@ -16,6 +16,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Facebook                | com.facebook.katana                     |                              |
 | Family Space            | com.motorola.spaces                     |                              |
 | Games                   | com.motorola.gamemode                   | If you use Moto Gametime     |
+| YouTube Music           | com.google.android.apps.youtube.music   |                              |
 | Meta App Installer      | com.facebook.system                     |                              |
 | Meta App Manager        | com.facebook.appmanager                 |                              |
 | Meta Services           | com.facebook.services                   |                              |
@@ -23,7 +24,6 @@ This list is tested on a Motorola Edge 50 Neo.
 | Orange Manual Selector  | com.orange.aura.oobe                    | If mobile provider is Orange |
 | Retail Mode             | com.motorola.demo                       |                              |
 | Weather                 | com.inmobi.weather                      |                              |
-| YouTube Music           | com.google.android.apps.youtube.music   |                              |
 
 ## Contribution
 

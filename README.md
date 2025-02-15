@@ -23,7 +23,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Orange Manual Selector  | com.orange.aura.oobe                    | Only keep if mobile provider is Orange |
 | Retail Mode             | com.motorola.demo                       |                                        |
 | Weather                 | com.inmobi.weather                      |                                        |
-| Youtube Music           | com.google.android.apps.youtube.music   |                                        |
+| YouTube Music           | com.google.android.apps.youtube.music   |                                        |
 
 ## Contribution
 

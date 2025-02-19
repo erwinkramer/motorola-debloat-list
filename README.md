@@ -21,6 +21,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Meta App Manager                   | com.facebook.appmanager                 |                              |
 | Meta Services                      | com.facebook.services                   |                              |
 | Mobile Device Information Provider | com.amazon.appmanager                   |                              |
+| Moto App Manager                   | com.dti.motorola                        |                              |
 | MotoApps                           | com.aura.oobe.motorola                  |                              |
 | Moto Widget                        | com.motorola.timeweatherwidget          | If using Motorola's widgets  |
 | Orange Manual Selector             | com.orange.aura.oobe                    | If mobile provider is Orange |

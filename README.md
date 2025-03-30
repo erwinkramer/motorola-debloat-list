@@ -16,7 +16,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Facebook                           | com.facebook.katana                     |                              |
 | Family Space                       | com.motorola.spaces                     |                              |
 | Games                              | com.motorola.gamemode                   | If using Moto Gametime       |
-| YouTube Music                      | com.google.android.apps.youtube.music   |                              |
+| Live lock screen                   | com.taboola.mip                         |                              |
 | Meta App Installer                 | com.facebook.system                     |                              |
 | Meta App Manager                   | com.facebook.appmanager                 |                              |
 | Meta Services                      | com.facebook.services                   |                              |
@@ -27,6 +27,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Retail Mode                        | com.motorola.demo                       |                              |
 | Stub                               | de.telekom.tsc                          |                              |
 | Weather                            | com.inmobi.weather                      |                              |
+| YouTube Music                      | com.google.android.apps.youtube.music   |                              |
 
 ## Contribution
 

@@ -1,6 +1,6 @@
 # Motorola Debloat List 🌱
 
-List of apps you can remove from your Motorola phone via [Canta](https://f-droid.org/packages/org.samo_lego.canta/).
+Conservative list of apps you can remove from your Motorola phone via [Canta](https://f-droid.org/packages/org.samo_lego.canta/).
 
 ## List
 
@@ -21,6 +21,7 @@ This list is tested on a Motorola Edge 50 Neo.
 | Meta App Manager                   | com.facebook.appmanager                 |                              |
 | Meta Services                      | com.facebook.services                   |                              |
 | Mobile Device Information Provider | com.amazon.appmanager                   |                              |
+| Moto App Manager                   | com.dti.motorola                        |                              |
 | MotoApps                           | com.aura.oobe.motorola                  |                              |
 | Moto Widget                        | com.motorola.timeweatherwidget          | If using Motorola's widgets  |
 | Orange Manual Selector             | com.orange.aura.oobe                    | If mobile provider is Orange |

@@ -1,6 +1,6 @@
 # Motorola Debloat List 🌱
 
-Conservative list of apps you can remove from your Motorola phone via [Canta](https://f-droid.org/packages/org.samo_lego.canta/).
+Conservative list of apps you can remove from your Motorola phone via [Canta](https://f-droid.org/en/packages/io.github.samolego.canta/).
 
 ## List
 
@@ -32,4 +32,4 @@ This list is tested on a Motorola Edge 50 Neo.
 
 ## Contribution
 
-Make an issue or PR if you think an app is missing or incorrectly specified, i will test it to keep this list up to date.
+Make an issue or PR if you think an app is missing or incorrectly specified, I will test it to keep this list up to date.
